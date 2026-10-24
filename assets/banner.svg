@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">cent0n1y</title>
+  <desc id="d">Web development, design and AI-assisted engineering</desc>
+  <rect width="1200" height="300" fill="#0d0d0d"/>
+  <g stroke="#1c1c1c" stroke-width="1">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+    <path d="M120 0V300M240 0V300M360 0V300M480 0V300M600 0V300M720 0V300M840 0V300M960 0V300M1080 0V300"/>
+  </g>
+  <rect x="72" y="72" width="6" height="156" fill="#c6ff00"/>
+  <text x="104" y="150" fill="#f2f2f2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="84" font-weight="700" letter-spacing="2">cent<tspan fill="#c6ff00">0</tspan>n<tspan fill="#c6ff00">1</tspan>y</text>
+  <text x="108" y="204" fill="#8a8a8a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" letter-spacing="1">web · design · python · ai-assisted development</text>
+  <text x="1128" y="232" fill="#c6ff00" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" text-anchor="end">01</text>
+</svg>
