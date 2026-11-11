@@ -5,9 +5,12 @@
 Делаю сайты, которые выглядят дорого и работают просто. Совмещаю дизайн, код и управление проектом: от арт-направления и структуры до запуска. Пишу код в паре с ИИ и отвечаю за результат целиком.
 
 > 🟢 **Открыт к удалённой работе:** веб-дизайнер / Tilda, AI-дизайн и креативы, вайбкодинг.
+>
+> [![Telegram](https://img.shields.io/badge/Telegram-@N31GHBOUR-0d0d0d?style=flat-square&logo=telegram&logoColor=c6ff00)](https://t.me/N31GHBOUR) [![Email](https://img.shields.io/badge/zefnfingazz@gmail.com-0d0d0d?style=flat-square&logo=gmail&logoColor=c6ff00)](mailto:zefnfingazz@gmail.com)
 
 ```text
 now      → 7 живых сайтов на Tilda: заведение, премия, медиа, три фестиваля, страница романа
+scale    → фестивали на 10 000+ и 2 000+ гостей, заведение в историческом центре Суздаля
 base     → Python, анализ данных, нейросети на PyTorch, сетевое программирование
 design   → айдентика, постеры, презентации, UI-концепты, AI-визуалы
 ```
@@ -61,5 +64,7 @@ design   → айдентика, постеры, презентации, UI-ко
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=c6ff00)
 
 ---
+
+**Связаться:** [Telegram @N31GHBOUR](https://t.me/N31GHBOUR) · [zefnfingazz@gmail.com](mailto:zefnfingazz@gmail.com)
 
 <sub>design by 01</sub>
